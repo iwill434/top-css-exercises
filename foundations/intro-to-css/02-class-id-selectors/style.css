@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.red-background {
+    background-color: #ffacac;
+    font-size: 18px;
+    font-family: "verdana", "dejavu sans", serif;
+}
+
+.bigger-font {
+    font-size: 24px;
+}
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#bold-green {
+    font-weight: bold;
+    background-color: #87ff87;
+}
